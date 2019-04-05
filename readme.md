@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Created on Thu Apr  4 21:34:17 2019
 source: https://gist.github.com/cbednarski/8450931
